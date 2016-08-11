@@ -4,7 +4,10 @@
 **FlazzSMS** merupakan aplikasi OpenSource yang dibangun menggunakan Laravel 5.2. **FlazzSMS** memungkinkan pengguna untuk mengirimkan sms ke satu tujuan atau banyak tujuan dalam satu waktu. **FlazzSMS** sedang dalam pengembangan.
 
 #Instalasi
+-
 
 #Kontribusi
+-
 
 #Lisensi
+-
